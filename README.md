@@ -1,1 +1,1 @@
-This is Logan's first git!
+This is Logan's first git! second attempt!
